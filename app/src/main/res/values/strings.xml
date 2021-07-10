@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notifications (Time to sleep)</string>
+    <string name="time_to_rest">Time to rest</string>
+</resources>
